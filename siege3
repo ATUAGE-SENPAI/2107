@@ -1,0 +1,136 @@
+<head>
+   <meta charset="utf-8"/>
+   <title>初心者向け</title>
+    <style>
+.wrap {
+  width: 100%;
+  height: 10%;
+  display: flex;
+  color: white;
+}
+
+.left_contents {
+  width: 20%;
+  height: 3000px;
+  background-color: black;
+}
+
+.menu {
+  position: sticky;
+  background-color: black;
+  top: 0;
+}
+
+.right_contents {
+  float: right;
+  width: 80%;
+  height: 3000px;
+  background-color: black;
+  padding-left: 100px;
+}
+
+h1 {
+  color: white;
+  }
+
+p {
+  color: white;
+}
+
+.border {
+position:absolute;/*絶対位置指定*/
+left:20%;/*横位置の指定*/
+top:0%;/*縦位置の指定*/
+background:white;/*線の色指定*/
+width:3px;/*線の幅指定*/
+height:3000px;/*線の高さ指定*/
+}
+
+h3 {
+    color:yellow;
+}
+.pr{
+font-size:30px;
+color:red;
+}
+li{font-size:20px;
+}
+.red{
+   color: red;
+}
+
+a{
+   color: yellow;
+}
+
+</style>
+</head>
+<body>
+<div class="wrap">
+    <div class="left_contents">
+        <div class="menu">
+            <h2>　　menu</h2>
+            <ul>
+                <li><a href="C:\Users\一宮工科高生徒00625\Desktop\シージ\toppage.html">トップページ</a></li>
+                <li><a href="C:\Users\一宮工科高生徒00625\Desktop\シージ\page2.html">検討者向け</a></li>
+                <li><a href="C:\Users\一宮工科高生徒00625\Desktop\シージ\page3.html">初心者向け</a></li>
+                <br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+            </ul>
+        </div>
+    </div>
+    <div class="right_contents"><div class="center_box"><p>
+                <h1>初心者向けページ</h1>
+        <div class="main">
+<img src="C:\Users\一宮工科高生徒00625\Desktop\シージ\sus.avif" width=800><br>
+<h3>新兵の諸君。戦場へようこそ。ここでは初心者がすべき行動、使うべきオペレーターを紹介する。</h3><br><br>
+
+<h2>試合に出るまで</h2>
+まずはチュートリアルをやろう、このゲームの基礎的なことはそこで教えられる。それが終わったら、射撃訓練場で設定を終えよう。<br>
+この後だが、自身があるのならオンラインのモードに行くもよし、対AIモードで練習するのもいい。しかし注意点がある。<br>
+まず初心者向けモードの「ニューカマー」、このモードは噂によればスマーフの温床らしいので、普通にクイックマッチに行くことをお勧めする。<br> 
+AIモードは一応練習にはなるが、基本対人ゲームなので、普通のモードの方が練習になる。<br>
+あと、マップを学べるモードもあるが、このゲームはマップが多いので、覚えるのにかなり時間がかかる。<br>
+試合に出ながらいろいろ学ぼう。<br><br>
+<h2>試合中</h2>
+次に、チュートリアルでは習わない初心者の立ち回りを教える。<h4>攻撃側</h4>
+<li>ディフューザーを持っているなら落そう。</li>勝利条件の一つだ、動ける味方に渡そう。
+<li>味方に付いていこう</li>単独行動は大きなリスクだ、味方をカバーしてあげよう（単独行動が強みのキャラ以外）
+<li>死亡後は放置しない</li>カメラを見てピンでサポートするか、人の視点を見ていよう。
+<h4>防衛側</h4>
+<li>壁は補強しなくてもいい</li>壁を壊すことで強みが生まれることもある、うまい人から学ぼう。
+<li>爆弾部屋にいよう</li>もしやられても、敵が来たという情報になる
+<li>死亡後は放置しない</li>死んでも諦めてはいけない。<br><br></p></div>
+<h2>おすすめオペレータ</h2>
+このゲームのオペレーターは、課金して買うか、ゲームをプレイしてたまる通貨で開放していく形になっていて、すべてのオペレーターを無課金で開けるにはかなりの時間がかかる。なので、使い方が簡単でそれなりに役に立てるオペレーターを紹介しよう。
+<h4>攻撃側</h4>
+<li><img src="C:\Users\一宮工科高生徒00625\Desktop\シージ\icon_striker.png" width=45>Striker(ストライカー)</li>最初から開放されているオペレーター。目立ったアビリティがない代わりに、普通のガジェットを２種類持てる。インパクトEMPとハードブリーチングチャージの構成がおすすめ。
+<li><img src="C:\Users\一宮工科高生徒00625\Desktop\シージ\icon_thatcher.png" width=50>Thatcher(サッチャー)</li>電子デバイスを止めるEMPグレネードを持っている。割職と呼ばれるハードブリーチャー（Thermite,Ace,Fuze,Hibana等）についていき援護しよう。
+<li><img src="C:\Users\一宮工科高生徒00625\Desktop\シージ\icon_blackbeard.png" width=50>Blackbeard(ブラックビアード)</li>ゲーム内で唯一盾を構えながらARが使える、やわらかい壁なら壊せるので、敵陣に奇襲する戦法がいい。ただし、盾を過信しすぎないように。
+<li><img src="C:\Users\一宮工科高生徒00625\Desktop\シージ\icon_iana.png" width=50>Iana(イアナ)</li>Ianaそっくりのデコイをだせる。これは操作可能で、使用回数も実質無限（インターバルあり）。撃った相手をスキャンしたり、目くらましはできないが、マップや敵、罠の配置がわからなくて怖い初心者には非常に心強い。
+<br><br>
+<h4>防衛側</h4>
+<li><img src="C:\Users\一宮工科高生徒00625\Desktop\シージ\icon_sentry.png" width=45>Sentry(セントリー)</li>最初から開放されているオペレーター。目立ったアビリティがない代わりに、普通のガジェットを２種類持てる。感知アラームとニトロセルの構成がおすすめ。ニトロセルで味方を殺さないように。
+<li><img src="C:\Users\一宮工科高生徒00625\Desktop\シージ\icon_rook.png" width=50>Rook(ルーク)</li>味方全員がつけれるアーマープレートを設置できる。体力増加に自己蘇生を付与できるし、やることは準備開始後にすぐ設置するだけなので、初心者には超オススメ。武器も強い。（故にかなりとられやすい）
+<li><img src="C:\Users\一宮工科高生徒00625\Desktop\シージ\icon_mute.png" width=50>Mute(ミュート)</li>敵の電子デバイスを無効化できるデバイスを設置できる。主要の部屋の入口において、敵のドローンを止めたり、補強壁の破壊を阻害したり、結構いろんなアビリティのアンチになる。Rookと同じく、置くだけで簡単だ。
+<li><img src="C:\Users\一宮工科高生徒00625\Desktop\シージ\icon_kaid.png" width=50>Kaid(カイード)</li>設置物から円状にビリビリをだせる。このビリビリは、補強壁、有刺鉄線、展開シールドなど、範囲内であれば数に制限なくビリビリになる。主に壁などにつければOK<br><br>
+これらは本当に最序盤におすすめのキャラで、理解ができてこればもっといろんなキャラを使ってみよう。正直最初は何使っても死ぬだろうから、コツは<div class="pr">自分がやられて嫌なことを相手にもしよう</div>
+<br><br>
+<h2>最後に</h2>
+正直ここ見るよりもっといいサイトはいっぱいある。このサイトは自分がよくお世話になってる<a href="https://w.atwiki.jp/siegespoiler/">サイト</a>を模倣したものなので、みんなもぜひそっちを見てくれるといい。
+
+
+
+
+
+
+  
+
+    </p>
+
+        </div>
+    </div>
+</div> 
+<div class="border"></div>
+  
+</body>
