@@ -1,0 +1,115 @@
+<head>
+   <meta charset="utf-8"/>
+   <title>TOP</title>
+    <style>
+.wrap {
+  width: 100%;
+  height: 10%;
+  display: flex;
+  color: white;
+}
+
+.left_contents {
+  width: 20%;
+  height: 1000px;
+  background-color: black;
+}
+
+.menu {
+  position: sticky;
+  background-color: black;
+  top: 0;
+}
+
+.right_contents {
+  float: right;
+  width: 80%;
+  height: 1000px;
+  background-color: black;
+}
+
+h1 {
+  color: white;
+  }
+
+p {
+  color: white;
+}
+
+.border {
+position:absolute;/*絶対位置指定*/
+left:16%;/*横位置の指定*/
+top:0%;/*縦位置の指定*/
+background:white;/*線の色指定*/
+width:3px;/*線の幅指定*/
+height:1000px;/*線の高さ指定*/
+}
+
+h3 {
+    font-style : italic;
+    font-family: Times New Roman, "ＭＳ Ｐゴシック";
+}
+pr{
+font-size:30px;
+color:red;
+}
+li{font-size:20px;
+}
+.black{
+color: black;
+}
+a{
+   color: yellow;
+}
+
+
+</style>
+</head>
+<body>
+<div class="wrap">
+    <div class="left_contents">
+        <div class="menu">
+            <h2>　　menu</h2>
+            <ul>
+                <li><a href="C:\Users\一宮工科高生徒00625\Desktop\シージ\toppage.html">トップページ</a></li>
+                <li><a href="C:\Users\一宮工科高生徒00625\Desktop\シージ\page2.html">検討者向け</a></li>
+                <li><a href="C:\Users\一宮工科高生徒00625\Desktop\シージ\page3.html">初心者向け</a></li>
+                <br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><a href="http://chillestmonkey.com/">.</a><br>
+            </ul>
+        </div>
+    </div>
+    <div class="right_contents">
+                <h1>レインボーシックスシージをみんなに布教するサイト</h1>
+        <div class="main">       <img src="C:\Users\一宮工科高生徒00625\Desktop\シージ\ダウンロード.jpg" alt="シージ" title="なんでこんなとこ見てんのよ.../// ヘンタイッ！">
+
+　　　　<h3>
+            「マジでクソだわ二度とやんねー」    (俺　2008～2025)      </h3>
+        <p>  FPSゲーム、それは今や男子高校生ゲーマーの4/1（適当）が人生を壊される大人気ジャンルです。<br> 
+             特に最近は Apex LegendsやOver Watch、Valorantといった基本プレイ無料のFPSの人気が高まり、FPS人口はかなり増加しました。<br>
+             まぁめんどくさいから結論を言うと、<pr>みんなシージやろうぜ。</pr> <br><br> 
+             -------～基本情報～-----------------------------------------------------------------------------------------------------------------<br>       
+             NAME&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp:Tom Clancy's Rainbow Six® Siege       <br>
+             AGE&nbsp;&nbsp;&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp:9 (2012/12/1∼)<br>
+             PUBLISHER: UBIsoft<br>
+             PRICE&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp:20$<br>
+             HOMEPAGE:<a href="https://www.ubisoft.com/ja-jp/game/rainbow-six/siege">https://www.ubisoft.com/ja-jp/game/rainbow-six/siege</a><br>
+             -------------------------------------------------------------------------------------------------------------------------------------<br><br>
+             このゲームを他のゲームで例えるなら、CSやValorantが近いでしょう。攻撃側と防御側に分かれて5v5で銃撃戦をし、爆弾の護衛、解除をします。頭に弾が当たれば即死ですし、壁抜きもある、戦略で敵を出し抜くハードなタクティカルシューターです。<br>
+             総勢65人のオペレーターはそれぞれが違うスキルを持ち、攻撃と防御で使えるキャラクターは違います。<br>
+             シージの売りは、壁や床が壊せることにあります。銃や爆弾、スキルを使って一部のオブジェクトを破壊することで、戦況を大きく動かすことができます。また、リーンという左右ののぞき込みもできます。<br>
+             steamなどでも評価はよく、初心者用のモードもあるのであんしんです。<br>
+             スライディングどころかジャンプすらないので、valoでネオンに処されて嫌気がさした人は全員金払ってシージ来ましょう。<br>
+             ちなみにスイッチ版はないですし、続編を名乗るRainbow Six® Extractionとかいうよくわかんないのを買わないようにしましょう。
+<div class="black">この文章が見つかっただと！？仕方ない、秘密のサイトに案内してやろう...http://www.patience-is-a-virtue.org</div>
+＊画像が表示されなかったら画像のパスを修正してください
+             
+             
+    </p>
+
+        </div>
+    </div>
+</div> 
+<div class="border"></div>
+  
+</body>
