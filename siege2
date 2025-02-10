@@ -1,0 +1,116 @@
+<head>
+   <meta charset="utf-8"/>
+   <title>page2</title>
+    <style>
+.wrap {
+  width: 100%;
+  height: 10%;
+  display: flex;
+  color: white;
+}
+
+.left_contents {
+  width: 20%;
+  height: 1300px;
+  background-color: black;
+}
+
+.menu {
+  position: sticky;
+  background-color: black;
+  top: 0;
+}
+
+.right_contents {
+  float: right;
+  width: 80%;
+  height: 1300px;
+  background-color: black;
+}
+
+h1 {
+  color: white;
+  }
+
+p {
+  color: white;
+}
+
+.border {
+position:absolute;/*絶対位置指定*/
+left:16%;/*横位置の指定*/
+top:0%;/*縦位置の指定*/
+background:white;/*線の色指定*/
+width:3px;/*線の幅指定*/
+height:1300px;/*線の高さ指定*/
+}
+
+h3 {
+    font-style : italic;
+    font-family: Times New Roman, "ＭＳ Ｐゴシック";
+}
+pr{
+font-size:30px;
+color:red;
+}
+li{font-size:20px;
+}
+
+a{
+color:yellow;
+}
+.mini{
+font-size:0.1px;
+}
+
+    </style>
+</head>
+<body>
+<div class="wrap">
+    <div class="left_contents">
+        <div class="menu">
+            <h2>　　menu</h2>
+            <ul>
+                <li><a href="C:\Users\一宮工科高生徒00625\Desktop\シージ\toppage.html">トップページ</a></li>
+                <li><a href="C:\Users\一宮工科高生徒00625\Desktop\シージ\page2.html">検討者向け</a></li>
+                <li><a href="C:\Users\一宮工科高生徒00625\Desktop\シージ\page3.html">初心者向け</a></li>
+                                <br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+            </ul>
+        </div>
+    </div>
+    <div class="right_contents">
+                <h1>検討者向けページ</h1>
+<p><img src="C:\Users\一宮工科高生徒00625\Desktop\シージ\cool.jpg" alt="申し訳程度の画像" title="申し訳程度の画像"><br>このゲームは有料なので購入しようか迷うところがあると思います。なので、このゲームのおすすめポイントを紹介します。
+<h2>おすすめポイント</h2>
+<li>  戦略の自由度が高い  </li><br>
+走り回って敵をシバくのもよし、盾を使って味方を守るもよし、爆弾ですべて壊すのもよし、サプをつけて隠密行動をとるもよし、<br>
+自分好みの戦い方で楽しめます。<br><br>
+                <li>リアルな重火器</li><br>
+このゲームの銃は、そのオペレータに関わりのある実際の銃器（またはそれを元にしたものなど）が約１００種類あります。<br>
+ジャンルやアタッチメントも豊富なので、銃好きはそれなりに楽しめます。<br>
+また、リボルバーなどの不利でしかないロマン武器もあるのでドM紳士の方々も大いに楽しめます。<br><br>
+                <li>民度がいい</li><br>
+シージ民はシャイな日本人か、何言ってるかわかんない外国人しかいないので、オープンＶＣで色々言ってくることはあんまりありません<br>
+もし何か言ってきてうざくなったら、このゲームにはフレンドリーファイアがあるので、ダウンさせた後に屈伸して○○撃ちしてあげましょう。<div class="mini">(もしやっても一切の責任はとりません)</div><br>
+                <li>実はパーティゲーム</li><br>
+このゲームは硬派なタクティカルＦＰＳを装った愉快なパーティゲームです。<br>
+立体機動装置で敵をひき殺したり、５盾構成で敵をいじめたり、人質を盾にして殺しあったりなどなど、その自由度を生かして敵を不快にして楽しむことができます。<br><br>
+どうですか？このゲームをやりたくなってきましたね？少なくともsteamではちょくちょくセールをしているので、それを狙えば1500円くらいで買えます。<br>
+各ショップのリンクを張ります。<br>
+<h1><a href="https://store.steampowered.com/app/359550/Tom_Clancys_Rainbow_Six_Siege/">Steam</a>　　　　　　<a href="https://store.ubisoft.com/jp/%E3%83%AC%E3%82%A4%E3%83%B3%E3%83%9C%E3%83%BC%E3%82%B7%E3%83%83%E3%82%AF%E3%82%B9-%E3%82%B7%E3%83%BC%E3%82%B8/56c494ad88a7e300458b4d5a.html?_gl=1*1q5pz1y*_gcl_au*MTAyNzc0MTMyOS4xNzMzNzk3NTk0*_ga*OTkzNzUxOTUwLjE3MTgwNzQ1OTU.*_ga_C4N5020N2R*MTczODIwODE4OC4xMi4xLjE3MzgyMDgxODguNjAuMC4w">UBIsoft store</a>　　　　　　　<a href="https://www.playstation.com/ja-jp/games/tom-clancys-rainbow-six-siege/">PSstore</a><br><div class="dance"><br>　　　　　　　
+
+
+
+</p>
+        <div class="main"> 
+      
+　　　　        </div>
+
+
+
+    </div>
+</div> 
+<div class="border"></div>
+  
+</body>
